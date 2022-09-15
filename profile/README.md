@@ -28,4 +28,4 @@
 
 # ***Enjoy your stay*** :hugs: 
 
-![This is a picture](https://drive.google.com/file/d/1n032o_EXsn7l5KkpFxiWFPw7i2sj3TvL/view?usp=sharing)
+
