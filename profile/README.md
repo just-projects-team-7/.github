@@ -13,17 +13,16 @@
 
 ## contributors:
 
--
--
--
--
--
--
--
--
--
--
--
+- Adewole Mohammed
+- AZdesignUX
+- Genevieve Ikechukwu
+- Funsho Akinbile
+- Adeola Fadare
+- Marian Nwoke
+- Nectuzzy
+- Nnenna Odo
+- Owen Adoga
+- Oredein Oluwatoyin
 
 
 # ***Enjoy your stay*** :hugs: 
