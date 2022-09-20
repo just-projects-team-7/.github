@@ -11,18 +11,19 @@
 :smiley:
 
 
-## contributors:
+## Contributors:
 
-- Adewole Mohammed
-- AZdesignUX
-- Genevieve Ikechukwu
-- Funsho Akinbile
-- Adeola Fadare
-- Marian Nwoke
-- Nectuzzy
-- Nnenna Odo
-- Owen Adoga
-- Oredein Oluwatoyin
+- [Adewole Mohammed](https://github.com/orgs/just-projects-team-7/people/Adetunji4924) (Product Designer)
+- [AZdesignUX](https://github.com/orgs/just-projects-team-7/people/Azdesignux) (Product Designer)
+- [Genevieve Ikechukwu](https://github.com/orgs/just-projects-team-7/people/buike5) (Backend Developer)
+- [Funsho Akinbile](https://github.com/orgs/just-projects-team-7/people/Funsho-ops) (Frontend Developer)
+- [Adeola Fadare](https://github.com/orgs/just-projects-team-7/people/Kenny1267) (Frontend Developer)
+- [Marian Nwoke](https://github.com/orgs/just-projects-team-7/people/Mimioriaku) (Frontend Developer)
+- Nectuzzy (Backend Developer)
+- [Nnenna Odo](https://github.com/orgs/just-projects-team-7/people/Nneny-bit) (Frontend Developer)
+- [Owen Adoga](https://github.com/orgs/just-projects-team-7/people/owenadoga) (Frontend Developer)
+- [Oredein Oluwatoyin](https://github.com/orgs/just-projects-team-7/people/teboola) (Frontend Developer)
+- [Tolu Ajao](https://github.com/orgs/just-projects-team-7/people/toluthepacifist) (Frontend Developer)
 
 
 # ***Enjoy your stay*** :hugs: 
