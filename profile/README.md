@@ -21,7 +21,6 @@
 - [Marian Nwoke](https://github.com/orgs/just-projects-team-7/people/Mimioriaku) (Frontend Developer)
 - Nectuzzy (Backend Developer)
 - [Nnenna Odo](https://github.com/orgs/just-projects-team-7/people/Nneny-bit) (Frontend Developer)
-- [Owen Adoga](https://github.com/orgs/just-projects-team-7/people/owenadoga) (Frontend Developer)
 - [Oredein Oluwatoyin](https://github.com/orgs/just-projects-team-7/people/teboola) (Frontend Developer)
 - [Tolu Ajao](https://github.com/orgs/just-projects-team-7/people/toluthepacifist) (Frontend Developer)
 
