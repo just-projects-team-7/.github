@@ -19,7 +19,7 @@
 - [AZdesignUX](https://github.com/orgs/just-projects-team-7/people/Azdesignux) (Product Designer)
 
 - [Funsho Akinbile](https://github.com/orgs/just-projects-team-7/people/Funsho-ops) (Frontend Developer)
-- [Adeola Fadare](https://github.com/orgs/just-projects-team-7/people/Kenny1267) (Frontend Developer)
+- [Adeola Fadare](https://github.com/orgs/just-projects-team-7/people/LazyCoder4542) (Frontend Developer)
 - [Kehinde Abioye](https://github.com/orgs/just-projects-team-7/people/Kenny1267) (Frontend Developer)
 - [Marian Nwoke](https://github.com/orgs/just-projects-team-7/people/Mimioriaku) (Frontend Developer)
 - [Adewole Mohammed](https://github.com/orgs/just-projects-team-7/people/Adetunji4924) (Frontend Developer)
