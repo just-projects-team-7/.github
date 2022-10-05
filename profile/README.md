@@ -12,14 +12,17 @@
 
 
 ## Contributors:
-
-- [Adewole Mohammed](https://github.com/orgs/just-projects-team-7/people/Adetunji4924) (Product Designer)
-- [AZdesignUX](https://github.com/orgs/just-projects-team-7/people/Azdesignux) (Product Designer)
 - [Genevieve Ikechukwu](https://github.com/orgs/just-projects-team-7/people/buike5) (Backend Developer)
+- Nectuzzy (Backend Developer)
+
+- [AZdesignUX](https://github.com/orgs/just-projects-team-7/people/Azdesignux) (Product Designer)
+- [AZdesignUX](https://github.com/orgs/just-projects-team-7/people/Azdesignux) (Product Designer)
+
 - [Funsho Akinbile](https://github.com/orgs/just-projects-team-7/people/Funsho-ops) (Frontend Developer)
 - [Adeola Fadare](https://github.com/orgs/just-projects-team-7/people/Kenny1267) (Frontend Developer)
+- [Kehinde Abioye](https://github.com/orgs/just-projects-team-7/people/Kenny1267) (Frontend Developer)
 - [Marian Nwoke](https://github.com/orgs/just-projects-team-7/people/Mimioriaku) (Frontend Developer)
-- Nectuzzy (Backend Developer)
+- [Adewole Mohammed](https://github.com/orgs/just-projects-team-7/people/Adetunji4924) (Frontend Developer)
 - [Nnenna Odo](https://github.com/orgs/just-projects-team-7/people/Nneny-bit) (Frontend Developer)
 - [Oredein Oluwatoyin](https://github.com/orgs/just-projects-team-7/people/CodinBabe) (Frontend Developer)
 - [Tolu Ajao](https://github.com/orgs/just-projects-team-7/people/toluthepacifist) (Frontend Developer)
