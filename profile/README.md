@@ -17,7 +17,7 @@
 - [AZdesignUX](https://github.com/orgs/just-projects-team-7/people/Azdesignux) (Product Designer)
 - [Genevieve Ikechukwu](https://github.com/orgs/just-projects-team-7/people/buike5) (Backend Developer)
 - [Funsho Akinbile](https://github.com/orgs/just-projects-team-7/people/Funsho-ops) (Frontend Developer)
-- [Adeola Fadare](https://github.com/orgs/just-projects-team-7/people/Kenny1267) (Frontend Developer)
+- [Adeola Fadare](https://github.com/orgs/just-projects-team-7/people/LazyCoder4542) (Frontend Developer)
 - [Marian Nwoke](https://github.com/orgs/just-projects-team-7/people/Mimioriaku) (Frontend Developer)
 - Nectuzzy (Backend Developer)
 - [Nnenna Odo](https://github.com/orgs/just-projects-team-7/people/Nneny-bit) (Frontend Developer)
